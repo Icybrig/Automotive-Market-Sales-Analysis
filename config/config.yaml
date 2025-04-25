@@ -4,9 +4,11 @@ paths:
   cleaned_car_data: data/cleaned/cleaned_car_data.csv
   cleaned_consumer_data: data/cleaned/cleaned_consumer_data.csv
 
-databse:
+database:
   user: postgres
   password: Fly140401.
   host: localhost
   port: 5432
-  name: car_db
+  dbname: automotive_project
+  car_table: car_data
+  consumer_table: consumer_data

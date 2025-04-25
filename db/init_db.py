@@ -1,12 +1,48 @@
-import pandas as pd 
-from sqlalchemy import create_engine
+import yaml 
+import psycopg2
 
-# engine = create_engine("postgresql+psycopg2://postgres:Fly140401.@localhost:5432/car_db")
+with open('config/config.yaml','r') as file:
+    config = yaml.safe_load(file)
 
-# car_df = pd.read_csv('data/car_data.csv')
-# consumer_df = pd.read_csv('data/consumer_data.csv')
+postgre = config['database']
 
-# car_df.to_sql('car_data', engine, if_exist = 'replace', index = False)
-# consumer_df.to_sql('consumer_data', engine, if_exist = 'replace', index = False)
+connection = psycopg2.connect(
+    host = postgre['host'],
+    port=postgre['port'],
+    dbname=postgre['dbname'],
+    user=postgre['user'],
+    password=postgre['password']
+)
+cur = connection.cursor()
 
-# print('data has been imported into the database')
+create_car_table = f"""
+CREATE TABLE IF NOT EXISTS {postgre['car_table']} (
+    id SERIAL PRIMARY KEY,
+    make TEXT,
+    model TEXT ,
+    production_year INT,
+    price FLOAT,
+    engine_type TEXT
+);
+"""
+
+create_consumer_table = f"""
+CREATE TABLE IF NOT EXISTS {postgre['consumer_table']} (
+    id SERIAL PRIMARY KEY,
+    country TEXT,
+    brand TEXT,
+    model TEXT,
+    year INT,
+    review_score FLOAT,
+    sales_volume INT
+);
+"""
+
+cur.execute(create_car_table)
+cur.execute(create_consumer_table)
+
+connection.commit()
+cur.close()
+connection.close()
+
+print('database and table structure has been created')
