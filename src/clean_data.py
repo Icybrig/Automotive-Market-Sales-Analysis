@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import yaml
 
-with open('config.yaml', 'r') as f:
+with open('config/config.yaml', 'r') as f:
     config = yaml.safe_load(f)
 
 raw_car_path = config['paths']['raw_car_data']
@@ -21,7 +21,7 @@ car_df.columns = [clean_col_name(col) for col in car_df.columns]
 car_df.dropna(inplace = True)
 
 car_df['price'] = car_df['price'].astype(float)
-car_df['year'] = car_df['year'].astype(int)
+car_df['production_year'] = car_df['production_year'].astype(int)
 
 car_df.to_csv(cleaned_car_path, index = False)
 print(f'car data has been cleaned')
