@@ -1,0 +1,12 @@
+paths:
+  raw_car_data: data/raw/car_data.csv
+  raw_consumer_data: data/raw/consumer_data.csv
+  cleaned_car_data: data/cleaned/cleaned_car_data.csv
+  cleaned_consumer_data: data/cleaned/cleaned_consumer_data.csv
+
+databse:
+  user: postgres
+  password: Fly140401.
+  host: localhost
+  port: 5432
+  name: car_db
