@@ -1,0 +1,501 @@
+make,model,production_year,price,engine_type
+Jaguar,XE,2022,47552.0,Thermal
+Kia,Forte,2018,22030.0,Thermal
+Fiat,Panda,2010,24726.0,Thermal
+Nissan,Maxima,2020,49002.0,Thermal
+Fiat,124 Spider,2010,36424.0,Thermal
+Peugeot,5008,2021,56126.0,Thermal
+Lexus,LS,2020,58578.0,Thermal
+Chevrolet,Equinox,2019,30194.0,Electric
+Mercedes-Benz,GLE,2020,81124.0,Thermal
+Fiat,Panda,2014,26244.0,Thermal
+Porsche,Panamera,2018,76781.0,Thermal
+BMW,5 Series,2013,36331.0,Thermal
+Buick,Envision,2022,57576.0,Electric
+Volkswagen,Atlas,2015,40352.0,Electric
+Jaguar,I-PACE,2019,64050.0,Electric
+Audi,Q5,2013,51215.0,Thermal
+Ford,Explorer,2015,59063.0,Thermal
+Vauxhall,Corsa,2017,25252.0,Electric
+Tesla,Model S,2017,45634.0,Electric
+Audi,Q5,2013,51430.0,Thermal
+Lexus,LS,2021,48169.0,Thermal
+Porsche,Panamera,2019,78260.0,Thermal
+Fiat,124 Spider,2022,42585.0,Thermal
+Toyota,Corolla,2010,32070.0,Thermal
+Lexus,LS,2013,49844.0,Thermal
+Buick,Envision,2019,64853.0,Electric
+Acura,TLX,2013,36522.0,Thermal
+Buick,Regal,2015,30466.0,Thermal
+Lexus,ES,2022,57238.0,Electric
+Honda,Fit,2010,24675.0,Thermal
+Acura,MDX,2018,45676.0,Thermal
+Subaru,Forester,2018,42420.0,Thermal
+Ford,Mustang,2010,61976.0,Thermal
+Mercedes-Benz,C-Class,2021,38902.0,Electric
+Nissan,Altima,2016,47837.0,Thermal
+Mazda,Mazda3,2020,30012.0,Thermal
+Nissan,Rogue,2010,49916.0,Electric
+Tesla,Model X,2021,51691.0,Electric
+Nissan,Leaf,2020,39818.0,Electric
+Fiat,500,2018,24365.0,Thermal
+Hyundai,Elantra,2014,21403.0,Thermal
+Toyota,Camry,2012,52675.0,Thermal
+Tesla,Model X,2017,48956.0,Electric
+Ford,F-150,2022,68591.0,Thermal
+Peugeot,5008,2020,55795.0,Thermal
+Acura,RDX,2022,52225.0,Thermal
+Tesla,Model Y,2021,68248.0,Electric
+BMW,X5,2018,54728.0,Thermal
+Toyota,Rav4,2015,40876.0,Thermal
+Vauxhall,Grandland X,2020,65317.0,Thermal
+Nissan,Leaf,2018,40094.0,Electric
+Mercedes-Benz,C-Class,2014,35718.0,Electric
+BMW,X5,2019,58763.0,Thermal
+Jaguar,XE,2012,44503.0,Thermal
+Toyota,Highlander,2020,59532.0,Thermal
+Porsche,Panamera,2018,71631.0,Thermal
+BMW,X3,2010,42873.0,Electric
+Porsche,911,2012,51827.0,Thermal
+Porsche,Cayenne,2018,75152.0,Thermal
+Nissan,Maxima,2018,50727.0,Thermal
+Mercedes-Benz,GLC,2019,89528.0,Thermal
+Porsche,Panamera,2020,78528.0,Thermal
+Fiat,Tipo,2020,37679.0,Thermal
+Tesla,Model S,2013,45132.0,Electric
+Acura,RDX,2016,59931.0,Thermal
+Lexus,ES,2014,60313.0,Electric
+Audi,e-tron,2010,57129.0,Electric
+Ford,Escape,2022,42920.0,Thermal
+Vauxhall,Crossland X,2012,44973.0,Thermal
+Lexus,GX,2018,77831.0,Thermal
+Buick,Envision,2013,60648.0,Electric
+Fiat,Panda,2014,24706.0,Thermal
+Honda,Fit,2018,23802.0,Thermal
+Volvo,XC60,2022,53516.0,Thermal
+Mercedes-Benz,GLE,2014,88031.0,Thermal
+Honda,Accord,2013,27875.0,Thermal
+Volvo,XC60,2010,51555.0,Thermal
+Volvo,S90,2021,40713.0,Thermal
+Volvo,S90,2013,35332.0,Thermal
+Tesla,Model Y,2010,64693.0,Electric
+Volvo,S60,2019,29626.0,Electric
+Porsche,Taycan,2021,79737.0,Electric
+Nissan,Altima,2016,48406.0,Thermal
+Nissan,Rogue,2014,50171.0,Electric
+Porsche,Taycan,2014,88581.0,Electric
+Toyota,Camry,2021,63973.0,Thermal
+Volkswagen,Passat,2010,35076.0,Thermal
+Subaru,Impreza,2019,27159.0,Thermal
+Kia,Forte,2019,22928.0,Thermal
+Audi,Q5,2016,52236.0,Thermal
+Acura,TLX,2016,31409.0,Thermal
+Lexus,NX,2014,37132.0,Thermal
+Volkswagen,Passat,2018,38819.0,Thermal
+Audi,Q5,2020,54645.0,Thermal
+BMW,3 Series,2018,31624.0,Thermal
+Honda,Civic,2020,37693.0,Electric
+Toyota,Prius,2021,36112.0,Electric
+Fiat,Panda,2014,27250.0,Thermal
+Lexus,LS,2014,59221.0,Thermal
+Jaguar,XE,2013,46846.0,Thermal
+Jaguar,F-PACE,2010,60885.0,Thermal
+Subaru,Outback,2015,30972.0,Thermal
+Porsche,Macan,2012,84551.0,Thermal
+Toyota,Corolla,2018,31780.0,Thermal
+Volkswagen,Golf,2020,20339.0,Thermal
+Renault,Scenic,2018,47799.0,Thermal
+Honda,Civic,2019,32025.0,Electric
+Chevrolet,Traverse,2015,37441.0,Thermal
+Tesla,Model S,2018,40526.0,Electric
+Lexus,RX,2019,43943.0,Thermal
+Fiat,Tipo,2016,33283.0,Thermal
+Peugeot,5008,2022,60272.0,Thermal
+Volkswagen,Golf,2017,20790.0,Thermal
+BMW,X3,2015,45519.0,Electric
+Kia,Soul,2017,39438.0,Electric
+Kia,Soul,2017,45614.0,Electric
+Fiat,Panda,2019,25197.0,Thermal
+Tesla,Model 3,2011,40181.0,Electric
+Renault,Captur,2016,34367.0,Thermal
+Ford,Fusion,2021,53467.0,Electric
+Fiat,500,2010,21423.0,Thermal
+Ford,Explorer,2013,50477.0,Thermal
+Mazda,MX-5,2022,65749.0,Thermal
+Vauxhall,Crossland X,2015,45510.0,Thermal
+Lexus,LS,2017,50949.0,Thermal
+Subaru,Outback,2017,31050.0,Thermal
+Toyota,Prius,2020,36367.0,Electric
+Honda,CR-V,2015,48932.0,Thermal
+Buick,Regal,2010,27411.0,Thermal
+Hyundai,Santa Fe,2016,39821.0,Thermal
+Renault,Kadjar,2016,50227.0,Thermal
+Jaguar,XE,2021,42168.0,Thermal
+Ford,Explorer,2012,55497.0,Thermal
+Jaguar,XF,2017,48943.0,Thermal
+Chevrolet,Traverse,2011,35256.0,Thermal
+Renault,Captur,2015,33606.0,Thermal
+Mazda,Mazda6,2016,33822.0,Electric
+Mazda,Mazda3,2017,29926.0,Thermal
+Nissan,Maxima,2017,49191.0,Thermal
+Mazda,CX-9,2012,39122.0,Thermal
+Vauxhall,Insignia,2011,33674.0,Thermal
+Audi,A6,2022,50217.0,Thermal
+Jaguar,F-PACE,2014,68308.0,Thermal
+Peugeot,5008,2017,59094.0,Thermal
+Toyota,Rav4,2011,45745.0,Thermal
+Nissan,Maxima,2017,45209.0,Thermal
+Subaru,Outback,2010,33303.0,Thermal
+Porsche,911,2020,56347.0,Thermal
+Vauxhall,Crossland X,2010,44234.0,Thermal
+Jaguar,F-PACE,2020,63548.0,Thermal
+Volvo,XC90,2017,68260.0,Thermal
+Porsche,Taycan,2016,80625.0,Electric
+Honda,Pilot,2019,47201.0,Thermal
+Volkswagen,Golf,2017,22262.0,Thermal
+Porsche,Macan,2014,79852.0,Thermal
+Honda,Accord,2017,27934.0,Thermal
+Acura,RDX,2013,51766.0,Thermal
+Kia,Sportage,2018,45270.0,Thermal
+Subaru,Legacy,2013,22401.0,Thermal
+Peugeot,508,2014,47055.0,Thermal
+BMW,X5,2015,49416.0,Thermal
+Buick,Envision,2017,62795.0,Electric
+Mazda,CX-5,2014,40677.0,Thermal
+Tesla,Model S,2016,46572.0,Electric
+Jaguar,F-PACE,2021,65482.0,Thermal
+Nissan,Leaf,2018,38463.0,Electric
+Vauxhall,Astra,2010,27823.0,Thermal
+Toyota,Prius,2020,39951.0,Electric
+Tesla,Model X,2011,54752.0,Electric
+Vauxhall,Corsa,2014,27196.0,Electric
+Mercedes-Benz,S-Class,2022,82458.0,Thermal
+Audi,Q5,2014,60180.0,Thermal
+Acura,RDX,2010,52193.0,Thermal
+Volkswagen,Tiguan,2019,49016.0,Thermal
+Chevrolet,Bolt,2013,43883.0,Electric
+Peugeot,5008,2021,51769.0,Thermal
+Hyundai,Sonata,2017,28439.0,Thermal
+Peugeot,308,2019,26957.0,Thermal
+Acura,MDX,2019,50206.0,Thermal
+Toyota,Highlander,2022,68772.0,Thermal
+Buick,Encore,2019,55938.0,Thermal
+Tesla,Model S,2020,44164.0,Electric
+BMW,7 Series,2016,61021.0,Thermal
+Hyundai,Santa Fe,2016,39878.0,Thermal
+Mazda,Mazda6,2020,38984.0,Electric
+Lexus,RX,2020,42477.0,Thermal
+Fiat,124 Spider,2020,39484.0,Thermal
+Mercedes-Benz,C-Class,2014,36307.0,Electric
+Vauxhall,Astra,2021,31557.0,Thermal
+Tesla,Model S,2022,50732.0,Electric
+Lexus,ES,2021,49880.0,Electric
+Subaru,Outback,2014,33147.0,Thermal
+Jaguar,I-PACE,2010,53216.0,Electric
+Toyota,Camry,2018,57119.0,Thermal
+Peugeot,208,2016,23666.0,Thermal
+Ford,F-150,2019,77671.0,Thermal
+BMW,7 Series,2012,76484.0,Thermal
+Mercedes-Benz,GLC,2020,75956.0,Thermal
+Nissan,Altima,2013,44228.0,Thermal
+Buick,Regal,2011,25450.0,Thermal
+Peugeot,208,2017,23377.0,Thermal
+Acura,RLX,2014,40249.0,Thermal
+BMW,7 Series,2020,61021.0,Thermal
+Subaru,Forester,2010,37058.0,Thermal
+Ford,Escape,2015,50402.0,Thermal
+Volkswagen,Passat,2022,40538.0,Thermal
+Nissan,Murano,2012,69995.0,Thermal
+Buick,Envision,2017,54127.0,Electric
+Mazda,CX-5,2019,36058.0,Thermal
+Lexus,ES,2012,54649.0,Electric
+Audi,A6,2013,50390.0,Thermal
+Acura,RLX,2020,34556.0,Thermal
+Jaguar,I-PACE,2021,65231.0,Electric
+Acura,RLX,2017,41402.0,Thermal
+Volkswagen,Passat,2018,42952.0,Thermal
+Volvo,XC90,2018,57244.0,Thermal
+Kia,Soul,2022,45475.0,Electric
+Volvo,S60,2017,29322.0,Electric
+Buick,Encore,2022,51588.0,Thermal
+Toyota,Highlander,2018,60033.0,Thermal
+Acura,MDX,2012,45777.0,Thermal
+Toyota,Corolla,2015,33839.0,Thermal
+Porsche,Cayenne,2018,70055.0,Thermal
+Subaru,Legacy,2017,22691.0,Thermal
+Lexus,NX,2019,31666.0,Thermal
+Porsche,911,2021,46490.0,Thermal
+Lexus,NX,2022,34798.0,Thermal
+BMW,5 Series,2018,40105.0,Thermal
+Mazda,CX-9,2020,44225.0,Thermal
+Nissan,Maxima,2018,49667.0,Thermal
+Nissan,Murano,2011,67319.0,Thermal
+Chevrolet,Traverse,2012,37531.0,Thermal
+Audi,A6,2020,59010.0,Thermal
+Peugeot,208,2020,26245.0,Thermal
+BMW,7 Series,2018,74791.0,Thermal
+Acura,RLX,2012,35364.0,Thermal
+Buick,Enclave,2018,35292.0,Thermal
+Toyota,Highlander,2022,59453.0,Thermal
+Acura,MDX,2011,43615.0,Thermal
+Subaru,Forester,2011,38098.0,Thermal
+Acura,MDX,2014,44992.0,Thermal
+Subaru,Forester,2010,44200.0,Thermal
+Subaru,Legacy,2010,24523.0,Thermal
+Fiat,500,2015,25586.0,Thermal
+Acura,MDX,2022,43460.0,Thermal
+Mercedes-Benz,GLE,2022,83629.0,Thermal
+Porsche,Cayenne,2013,81753.0,Thermal
+Subaru,Ascent,2011,45303.0,Electric
+Chevrolet,Equinox,2014,30300.0,Electric
+Tesla,Model Y,2021,67943.0,Electric
+Toyota,Highlander,2010,62041.0,Thermal
+Tesla,Model S,2020,51294.0,Electric
+Toyota,Rav4,2016,42404.0,Thermal
+Lexus,LS,2016,49241.0,Thermal
+Porsche,Panamera,2021,77822.0,Thermal
+Nissan,Rogue,2021,51027.0,Electric
+BMW,5 Series,2018,36722.0,Thermal
+Lexus,GX,2019,76389.0,Thermal
+Peugeot,208,2012,22548.0,Thermal
+Subaru,Outback,2021,32941.0,Thermal
+Volvo,S90,2010,34698.0,Thermal
+Ford,Escape,2016,51084.0,Thermal
+Ford,Explorer,2016,56718.0,Thermal
+Honda,Civic,2017,33303.0,Electric
+Peugeot,508,2022,46643.0,Thermal
+Kia,Soul,2011,45337.0,Electric
+BMW,7 Series,2018,61083.0,Thermal
+Mercedes-Benz,S-Class,2016,71356.0,Thermal
+Volkswagen,Golf,2014,23985.0,Thermal
+Volvo,XC40,2013,49544.0,Electric
+Tesla,Model X,2010,45322.0,Electric
+Mercedes-Benz,E-Class,2020,52949.0,Thermal
+Renault,Kadjar,2021,49036.0,Thermal
+Subaru,Forester,2011,43404.0,Thermal
+Renault,Clio,2022,20079.0,Electric
+Jaguar,I-PACE,2020,65983.0,Electric
+Acura,TLX,2019,36920.0,Thermal
+Acura,RLX,2017,39088.0,Thermal
+Subaru,Outback,2011,33825.0,Thermal
+Volkswagen,Jetta,2022,31876.0,Thermal
+Tesla,Model X,2016,54771.0,Electric
+Renault,Scenic,2011,46683.0,Thermal
+Mercedes-Benz,S-Class,2015,79153.0,Thermal
+BMW,X3,2018,47371.0,Electric
+Volkswagen,Golf,2011,23441.0,Thermal
+Kia,Telluride,2021,42153.0,Electric
+Porsche,911,2011,47273.0,Thermal
+Mercedes-Benz,GLE,2011,84556.0,Thermal
+Ford,Escape,2016,44080.0,Thermal
+Renault,Megane,2010,33580.0,Thermal
+Renault,Megane,2011,29983.0,Thermal
+Nissan,Rogue,2021,51137.0,Electric
+BMW,3 Series,2018,26848.0,Thermal
+Vauxhall,Corsa,2015,27414.0,Electric
+Buick,Envision,2021,64095.0,Electric
+Subaru,Ascent,2013,46844.0,Electric
+Vauxhall,Corsa,2018,27658.0,Electric
+Kia,Forte,2013,22381.0,Thermal
+Renault,Megane,2014,31094.0,Thermal
+Tesla,Model 3,2022,38174.0,Electric
+BMW,7 Series,2016,68059.0,Thermal
+Nissan,Rogue,2017,45530.0,Electric
+Porsche,Cayenne,2016,80417.0,Thermal
+Chevrolet,Malibu,2010,51038.0,Thermal
+Acura,TLX,2011,35731.0,Thermal
+Audi,Q5,2015,58547.0,Thermal
+Subaru,Forester,2017,38847.0,Thermal
+Nissan,Rogue,2011,52501.0,Electric
+Audi,Q5,2020,57866.0,Thermal
+Volvo,XC90,2017,68760.0,Thermal
+Volkswagen,Jetta,2016,28263.0,Thermal
+Mercedes-Benz,S-Class,2014,75728.0,Thermal
+Mazda,Mazda6,2011,36775.0,Electric
+Acura,TLX,2020,33794.0,Thermal
+Porsche,Cayenne,2011,67378.0,Thermal
+Audi,Q7,2017,72437.0,Thermal
+Lexus,LS,2021,53851.0,Thermal
+Porsche,Cayenne,2010,73367.0,Thermal
+Porsche,Panamera,2013,83558.0,Thermal
+Lexus,RX,2020,39657.0,Thermal
+Chevrolet,Equinox,2016,33469.0,Electric
+Audi,A4,2018,35349.0,Thermal
+Buick,Enclave,2017,36166.0,Thermal
+Acura,RLX,2020,40994.0,Thermal
+Porsche,Panamera,2020,81684.0,Thermal
+Renault,Scenic,2012,43690.0,Thermal
+Chevrolet,Bolt,2011,38218.0,Electric
+Porsche,Taycan,2010,76374.0,Electric
+Kia,Forte,2016,22135.0,Thermal
+Mercedes-Benz,S-Class,2020,77198.0,Thermal
+BMW,X3,2017,49715.0,Electric
+Ford,Explorer,2018,51366.0,Thermal
+Nissan,Altima,2011,49338.0,Thermal
+Subaru,Forester,2012,41957.0,Thermal
+Kia,Sportage,2018,47489.0,Thermal
+Toyota,Corolla,2016,35028.0,Thermal
+Volvo,S60,2015,28195.0,Electric
+Toyota,Corolla,2019,37267.0,Thermal
+Renault,Megane,2021,33894.0,Thermal
+Nissan,Maxima,2021,47866.0,Thermal
+Chevrolet,Malibu,2020,57183.0,Thermal
+Jaguar,XE,2019,47227.0,Thermal
+Volvo,S90,2016,39754.0,Thermal
+Volkswagen,Tiguan,2020,40213.0,Thermal
+Lexus,LS,2013,50204.0,Thermal
+Subaru,Outback,2016,35180.0,Thermal
+Volvo,S60,2015,31434.0,Electric
+Volkswagen,Passat,2019,39180.0,Thermal
+Lexus,ES,2011,59343.0,Electric
+Volvo,XC40,2010,50793.0,Electric
+Hyundai,Tucson,2017,34250.0,Thermal
+Porsche,911,2011,46033.0,Thermal
+Renault,Clio,2015,20732.0,Electric
+Fiat,500,2021,25142.0,Thermal
+Audi,A4,2013,36578.0,Thermal
+Buick,Envision,2022,54212.0,Electric
+Volvo,XC90,2020,64570.0,Thermal
+Mazda,MX-5,2012,55806.0,Thermal
+Acura,RDX,2017,55544.0,Thermal
+Chevrolet,Cruze,2012,55752.0,Thermal
+Honda,Fit,2014,25074.0,Thermal
+Chevrolet,Traverse,2018,32445.0,Thermal
+Volvo,XC90,2017,56221.0,Thermal
+Buick,Envision,2011,53137.0,Electric
+Vauxhall,Crossland X,2012,39797.0,Thermal
+Toyota,Camry,2018,58655.0,Thermal
+Ford,Escape,2021,46289.0,Thermal
+Tesla,Model 3,2022,43193.0,Electric
+Kia,Soul,2011,38132.0,Electric
+Mazda,Mazda3,2016,30336.0,Thermal
+Volvo,S60,2011,27727.0,Electric
+Mercedes-Benz,S-Class,2013,67476.0,Thermal
+Toyota,Highlander,2013,67284.0,Thermal
+Subaru,Legacy,2021,22031.0,Thermal
+Buick,Encore,2015,56746.0,Thermal
+Audi,A4,2011,39083.0,Thermal
+Acura,MDX,2013,50117.0,Thermal
+Vauxhall,Astra,2011,28404.0,Thermal
+Ford,Mustang,2012,55990.0,Thermal
+Fiat,500X,2017,42326.0,Electric
+Mazda,CX-5,2019,38987.0,Thermal
+Acura,RDX,2013,54060.0,Thermal
+Acura,TLX,2017,34947.0,Thermal
+Tesla,Model S,2022,50000.0,Electric
+BMW,3 Series,2020,26330.0,Thermal
+Kia,Optima,2015,36658.0,Thermal
+Lexus,RX,2022,40783.0,Thermal
+Volvo,XC90,2010,59919.0,Thermal
+Mercedes-Benz,GLE,2016,84839.0,Thermal
+Chevrolet,Traverse,2012,37665.0,Thermal
+Porsche,Cayenne,2019,67634.0,Thermal
+Volvo,XC40,2012,47676.0,Electric
+Volkswagen,Tiguan,2020,41139.0,Thermal
+Porsche,911,2019,55299.0,Thermal
+Honda,Pilot,2015,49172.0,Thermal
+Subaru,Legacy,2015,24736.0,Thermal
+Subaru,Ascent,2019,47077.0,Electric
+Nissan,Altima,2022,52369.0,Thermal
+BMW,X5,2019,49801.0,Thermal
+Jaguar,F-PACE,2021,68277.0,Thermal
+Subaru,Legacy,2014,22168.0,Thermal
+Mazda,Mazda3,2020,26430.0,Thermal
+Tesla,Model S,2015,41651.0,Electric
+Chevrolet,Cruze,2021,63969.0,Thermal
+Mercedes-Benz,GLC,2014,76659.0,Thermal
+Hyundai,Tucson,2010,33996.0,Thermal
+Vauxhall,Astra,2017,32253.0,Thermal
+Chevrolet,Cruze,2021,55002.0,Thermal
+Volvo,S60,2015,26877.0,Electric
+Lexus,GX,2022,80721.0,Thermal
+Mercedes-Benz,E-Class,2015,54993.0,Thermal
+Tesla,Model 3,2011,39125.0,Electric
+Toyota,Camry,2022,61907.0,Thermal
+Volvo,S90,2012,34328.0,Thermal
+Buick,Enclave,2018,36289.0,Thermal
+Acura,TLX,2022,33635.0,Thermal
+Kia,Optima,2017,35572.0,Thermal
+Kia,Sportage,2020,40655.0,Thermal
+Chevrolet,Bolt,2015,41520.0,Electric
+Mazda,Mazda3,2012,28334.0,Thermal
+Toyota,Highlander,2022,57570.0,Thermal
+Lexus,LS,2014,53166.0,Thermal
+Mercedes-Benz,S-Class,2011,67776.0,Thermal
+Peugeot,208,2012,22884.0,Thermal
+Renault,Kadjar,2022,46789.0,Thermal
+Subaru,Outback,2018,33789.0,Thermal
+Subaru,Legacy,2020,20665.0,Thermal
+Tesla,Model Y,2021,59156.0,Electric
+Honda,Fit,2011,25631.0,Thermal
+Hyundai,Palisade,2015,52371.0,Electric
+Hyundai,Santa Fe,2017,46272.0,Thermal
+Porsche,Taycan,2021,77356.0,Electric
+Subaru,Outback,2020,30960.0,Thermal
+Toyota,Highlander,2013,57515.0,Thermal
+Subaru,Outback,2022,29947.0,Thermal
+Toyota,Rav4,2012,47225.0,Thermal
+Vauxhall,Corsa,2010,24755.0,Electric
+Peugeot,5008,2011,50718.0,Thermal
+Chevrolet,Cruze,2017,51918.0,Thermal
+Toyota,Corolla,2022,32521.0,Thermal
+Mercedes-Benz,S-Class,2016,72706.0,Thermal
+Renault,Megane,2016,27406.0,Thermal
+Honda,CR-V,2017,47083.0,Thermal
+Hyundai,Tucson,2016,31300.0,Thermal
+Ford,Explorer,2019,48823.0,Thermal
+Nissan,Altima,2015,45809.0,Thermal
+Mercedes-Benz,GLC,2022,82241.0,Thermal
+Chevrolet,Equinox,2018,28884.0,Electric
+Kia,Sportage,2014,44097.0,Thermal
+Jaguar,F-PACE,2022,60123.0,Thermal
+Mercedes-Benz,GLE,2020,79436.0,Thermal
+BMW,5 Series,2011,39358.0,Thermal
+Honda,Civic,2014,34650.0,Electric
+Subaru,Impreza,2012,31899.0,Thermal
+Subaru,Impreza,2022,28467.0,Thermal
+Porsche,Taycan,2022,92799.0,Electric
+Mazda,CX-5,2022,39463.0,Thermal
+Nissan,Maxima,2017,41482.0,Thermal
+Kia,Telluride,2018,43301.0,Electric
+Hyundai,Sonata,2021,28177.0,Thermal
+Tesla,Model Y,2022,64703.0,Electric
+Nissan,Murano,2013,61648.0,Thermal
+Peugeot,308,2013,30260.0,Thermal
+Ford,Explorer,2015,51586.0,Thermal
+Acura,MDX,2012,46376.0,Thermal
+Tesla,Model S,2018,41360.0,Electric
+Peugeot,308,2019,30076.0,Thermal
+Renault,Scenic,2020,41753.0,Thermal
+Ford,F-150,2019,74729.0,Thermal
+Acura,MDX,2010,45757.0,Thermal
+Honda,Accord,2016,31219.0,Thermal
+Jaguar,I-PACE,2017,54449.0,Electric
+Peugeot,3008,2014,42571.0,Thermal
+Tesla,Model 3,2018,41016.0,Electric
+Chevrolet,Malibu,2016,51119.0,Thermal
+Hyundai,Elantra,2010,25030.0,Thermal
+Mazda,Mazda6,2017,34326.0,Electric
+Peugeot,5008,2019,55203.0,Thermal
+Kia,Sportage,2016,41590.0,Thermal
+Tesla,Model 3,2015,38720.0,Electric
+Audi,e-tron,2018,45664.0,Electric
+Porsche,Macan,2010,75353.0,Thermal
+Subaru,Ascent,2011,38900.0,Electric
+Vauxhall,Corsa,2021,23886.0,Electric
+Lexus,GX,2017,74459.0,Thermal
+Honda,Pilot,2012,52629.0,Thermal
+Acura,RLX,2014,40048.0,Thermal
+Vauxhall,Corsa,2012,25732.0,Electric
+Chevrolet,Equinox,2010,30922.0,Electric
+Toyota,Corolla,2011,34109.0,Thermal
+Lexus,RX,2013,40192.0,Thermal
+Volkswagen,Passat,2017,42475.0,Thermal
+Kia,Forte,2016,25648.0,Thermal
+Volkswagen,Passat,2019,35420.0,Thermal
+Subaru,Outback,2013,30027.0,Thermal
+Tesla,Model S,2011,49521.0,Electric
+Hyundai,Santa Fe,2011,44512.0,Thermal
+Jaguar,XE,2020,45111.0,Thermal
+Jaguar,XE,2021,39888.0,Thermal
+Mercedes-Benz,E-Class,2021,49266.0,Thermal
