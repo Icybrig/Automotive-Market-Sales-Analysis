@@ -1,0 +1,340 @@
+country,model,total_cars
+USA,Sonata,312
+USA,3008,312
+USA,Forte,312
+France,Model S,312
+France,911,312
+France,RDX,312
+France,124 Spider,312
+Germany,Kadjar,312
+France,Palisade,312
+France,CR-V,312
+USA,Outback,312
+Germany,Grandland X,312
+Germany,Mazda3,312
+France,3008,312
+Germany,XE,312
+France,Traverse,312
+USA,Panda,312
+Germany,Fit,312
+Germany,Megane,312
+France,Crossland X,312
+USA,Tucson,312
+France,C-Class,312
+France,CX-9,312
+Germany,ES,312
+Germany,CX-5,312
+France,LS,312
+France,Explorer,312
+Germany,GLC,312
+France,Insignia,312
+France,Captur,312
+USA,Corsa,312
+France,Civic,312
+France,Mazda6,312
+Germany,Q7,312
+France,Outback,312
+France,Impreza,312
+Germany,Corolla,312
+USA,5 Series,312
+Germany,XC60,312
+USA,Clio,312
+France,Scenic,312
+USA,XC90,312
+France,XC60,312
+France,Maxima,312
+Germany,Impreza,312
+USA,Sportage,312
+USA,Megane,312
+USA,500,312
+France,Enclave,312
+USA,Elantra,312
+France,CX-5,312
+USA,Grandland X,312
+France,Rav4,312
+France,Fit,312
+Germany,Clio,312
+Germany,Atlas,312
+Germany,Prius,312
+USA,7 Series,312
+USA,Mazda6,312
+France,Encore,312
+Germany,Jetta,312
+USA,Murano,312
+France,Astra,312
+France,GX,312
+France,Q7,312
+Germany,Legacy,312
+USA,5008,312
+USA,Explorer,312
+Germany,Model Y,312
+Germany,Scenic,312
+Germany,5 Series,312
+Germany,MDX,312
+Germany,Soul,312
+Germany,CR-V,312
+USA,Model X,312
+Germany,Crossland X,312
+Germany,Altima,312
+Germany,MX-5,312
+Germany,Model X,312
+France,XE,312
+Germany,NX,312
+Germany,Explorer,312
+USA,Mazda3,312
+Germany,Regal,312
+Germany,Elantra,312
+Germany,RDX,312
+France,308,312
+USA,500X,312
+Germany,RLX,312
+France,Grandland X,312
+France,S60,312
+USA,Model 3,312
+Germany,S60,312
+France,Forester,312
+France,XC40,312
+Germany,Insignia,312
+Germany,Model S,312
+Germany,Sonata,312
+USA,Envision,312
+France,Murano,312
+USA,Fusion,312
+Germany,Outback,312
+Germany,3008,312
+Germany,Escape,312
+USA,A6,312
+USA,GX,312
+USA,Captur,312
+USA,Soul,312
+France,RLX,312
+USA,C-Class,312
+USA,Encore,312
+USA,Malibu,312
+USA,F-150,312
+USA,I-PACE,312
+France,Clio,312
+Germany,Passat,312
+Germany,911,312
+Germany,500,312
+USA,ES,312
+France,ES,312
+France,Soul,312
+USA,Ascent,312
+Germany,Palisade,312
+Germany,Traverse,312
+USA,Astra,312
+USA,XC40,312
+USA,Highlander,312
+Germany,Captur,312
+USA,Equinox,312
+Germany,Tipo,312
+Germany,Murano,312
+Germany,Civic,312
+France,Q5,312
+USA,Telluride,312
+USA,TLX,312
+France,Mazda3,312
+Germany,Cruze,312
+Germany,Mustang,312
+Germany,Panamera,312
+Germany,Maxima,312
+France,Atlas,312
+Germany,X3,312
+USA,Passat,312
+France,Macan,312
+Germany,Taycan,312
+France,TLX,312
+Germany,Santa Fe,312
+USA,Altima,312
+Germany,XC90,312
+USA,Civic,312
+Germany,Telluride,312
+USA,RX,312
+Germany,Corsa,312
+USA,3 Series,312
+France,F-PACE,312
+France,Forte,312
+France,Santa Fe,312
+USA,XE,312
+Germany,Rav4,312
+Germany,Rogue,312
+USA,Cruze,312
+USA,Leaf,312
+France,MX-5,312
+USA,Corolla,312
+France,GLC,312
+USA,Forester,312
+France,Envision,312
+France,Megane,312
+France,Jetta,312
+France,500X,312
+USA,Optima,312
+USA,Rav4,312
+Germany,Camry,312
+Germany,124 Spider,312
+USA,Atlas,312
+Germany,LS,312
+USA,Panamera,312
+Germany,3 Series,312
+France,Passat,312
+France,Tucson,312
+USA,E-Class,312
+USA,GLE,312
+Germany,CX-9,312
+Germany,Model 3,312
+France,Fusion,312
+France,Pilot,312
+USA,Legacy,312
+France,XC90,312
+USA,Tiguan,312
+USA,Santa Fe,312
+USA,Kadjar,312
+Germany,TLX,312
+USA,RLX,312
+Germany,Envision,312
+France,Model X,312
+Germany,500X,312
+France,Optima,312
+Germany,Enclave,312
+USA,A4,312
+France,Corolla,312
+Germany,Bolt,312
+Germany,Leaf,312
+France,S90,312
+France,Mustang,312
+Germany,Encore,312
+USA,308,312
+USA,Impreza,312
+France,Prius,312
+Germany,S-Class,312
+USA,Fit,312
+USA,XC60,312
+France,Telluride,312
+USA,CX-9,312
+France,5 Series,312
+USA,F-PACE,312
+Germany,308,312
+France,500,312
+USA,Scenic,312
+USA,Enclave,312
+France,A6,312
+Germany,XC40,312
+USA,Crossland X,312
+Germany,C-Class,312
+France,F-150,312
+France,Taycan,312
+France,GLE,312
+USA,Insignia,312
+France,7 Series,312
+France,e-tron,312
+France,Panda,312
+Germany,GX,312
+USA,CR-V,312
+USA,Camry,312
+Germany,Optima,312
+Germany,Highlander,312
+France,X5,312
+Germany,Panda,312
+France,Leaf,312
+France,Altima,312
+France,5008,312
+Germany,Macan,312
+France,X3,312
+USA,Taycan,312
+France,NX,312
+France,E-Class,312
+France,RX,312
+USA,Regal,312
+France,MDX,312
+Germany,Fusion,312
+France,Panamera,312
+USA,S60,312
+USA,X5,312
+France,Equinox,312
+France,Kadjar,312
+Germany,I-PACE,312
+France,I-PACE,312
+Germany,E-Class,312
+France,Sonata,312
+Germany,S90,312
+France,Sportage,312
+Germany,RX,312
+USA,Model S,312
+USA,Rogue,312
+USA,e-tron,312
+Germany,Astra,312
+Germany,Forester,312
+Germany,Mazda6,312
+Germany,A6,312
+France,Bolt,312
+USA,Model Y,312
+France,Golf,312
+France,Escape,312
+USA,Jetta,312
+France,Malibu,312
+Germany,Tucson,312
+USA,Bolt,312
+France,Corsa,312
+France,A4,312
+USA,Palisade,312
+USA,MDX,312
+Germany,F-150,312
+Germany,A4,312
+France,Highlander,312
+USA,X3,312
+France,Ascent,312
+USA,Mustang,312
+USA,LS,312
+USA,S90,312
+Germany,Forte,312
+France,508,312
+Germany,Golf,312
+USA,Prius,312
+USA,Q5,312
+Germany,Sportage,312
+USA,NX,312
+Germany,508,312
+France,Camry,312
+USA,Golf,312
+USA,Escape,312
+Germany,Q5,312
+USA,Maxima,312
+USA,Q7,312
+Germany,Pilot,312
+Germany,XF,312
+USA,Tipo,312
+USA,Macan,312
+Germany,F-PACE,312
+USA,Pilot,312
+Germany,7 Series,312
+France,Rogue,312
+USA,MX-5,312
+Germany,Equinox,312
+USA,RDX,312
+France,Tiguan,312
+Germany,Ascent,312
+USA,XF,312
+Germany,Tiguan,312
+France,Legacy,312
+France,3 Series,312
+USA,GLC,312
+Germany,e-tron,312
+France,Model 3,312
+USA,CX-5,312
+France,Tipo,312
+Germany,X5,312
+France,S-Class,312
+USA,508,312
+France,Cruze,312
+USA,Traverse,312
+Germany,5008,312
+USA,911,312
+Germany,GLE,312
+France,Model Y,312
+France,Elantra,312
+France,Regal,312
+Germany,Malibu,312
+USA,S-Class,312
+USA,124 Spider,312
+France,XF,299
