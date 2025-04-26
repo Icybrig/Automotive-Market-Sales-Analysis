@@ -33,8 +33,8 @@ for i, query in enumerate(queries):
         if rows:
             columns = [desc[0] for desc in cur.description]
             df = pd.DataFrame(rows, columns=columns)
-            df.to_csv(f"output/query_result_{i+1}.csv", index=False)
-            print(f"Query {i+1} has been executed and result saved into output/query_result_{i+1}.csv")
+            df.to_csv(f"outputs/sql_queries_results/query_result_{i+1}.csv", index=False)
+            print(f"Query {i+1} has been executed and result saved into outputs/sql_queries_results/query_result_{i+1}.csv")
     except psycopg2.ProgrammingError:
         print(f"Executed successfully: {query}")
 
