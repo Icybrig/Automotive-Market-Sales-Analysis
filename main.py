@@ -22,7 +22,7 @@ def main():
     except subprocess.CalledProcessError as error:
         print(f" mistake in executing {error.cmd}！")
     except Exception as e:
-        print(f"❌ unknown: {error}")
+        print(f" unknown: {error}")
 
 if __name__ == "__main__":
     main()
